@@ -28,7 +28,7 @@ Excited to connect with you! I’m a web developer with skills in MERN, Firebase
 <br>
 <br>
 ### 📲 Connect with me:
-<a href="https://www.linkedin.com/in/vaibhavkatariya" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vaibhavkatariyaa" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="https://instagram.com/acevaibhav"><img alt="Instagram"
                 src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
             <a href="mailto:vaibhav@kaily.in" target="_blank"><img alt="Gmail"
