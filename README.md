@@ -8,7 +8,7 @@
 ![header_](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
 
 
-Excited to connect with you! I’m a web developer with skills in MERN, Firebase, Next.js, and other tech. I love making interesting and easy-to-use websites. I’m always looking to learn more and join new projects
+Excited to connect with you! I’m a web developer with skills in MERN, Firebase, Next.js, and other tech. I love making interesting and easy-to-use websites. I’m always looking to learn more and join new projects. Feel free to reach out for networking, collaboration, or opportunities that align with my interests.
 
 - 🔭 I’m currently working on my **Web Development Skills**
 - ⚡ I play with console (developer console :))
