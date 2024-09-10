@@ -28,7 +28,7 @@ Excited to connect with you! I’m a web developer with skills in MERN, Firebase
 <br>
 <br>
 ### 📲 Connect with me:
-<a href="https://www.linkedin.com/in/vaibhavkatariyaaa" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vaibhavkatariya" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="https://instagram.com/acevaibhav"><img alt="Instagram"
                 src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
             <a href="mailto:vaibhav@kaily.in" target="_blank"><img alt="Gmail"
@@ -39,16 +39,16 @@ Excited to connect with you! I’m a web developer with skills in MERN, Firebase
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavKatariyaa&show_icons=true&locale=en" alt="VaibhavKatariyaa" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavkatariya&show_icons=true&locale=en" alt="vaibhavkatariya" />
 </p>
 
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavKatariyaa&" alt="VaibhavKatariyaa" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavkatariya&" alt="vaibhavkatariya" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VaibhavKatariyaa&show_icons=true&locale=en&layout=compact" alt="VaibhavKatariyaa" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavkatariya&show_icons=true&locale=en&layout=compact" alt="vaibhavkatariya" />
 </p>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
