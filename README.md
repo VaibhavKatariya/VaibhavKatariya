@@ -56,9 +56,6 @@ Excited to connect with you! I’m a web developer with skills in MERN, Firebase
 ## Thank you for Visiting!
 
 Feel free to explore my repositories and reach out to me for collaborations or discussions. 😊
-
----
-[![](https://visitcount.itsvg.in/api?id=VaibhavKatariya&label=Profile%20Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
     
 ```
 < HAPPY CODING />
