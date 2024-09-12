@@ -39,16 +39,16 @@ Excited to connect with you! I’m a web developer with skills in MERN, Firebase
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavkatariya&show_icons=true&locale=en" alt="vaibhavkatariya" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavkatariya&&theme=dark&show_icons=true&locale=en" alt="vaibhavkatariya" />
 </p>
 
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavkatariya&" alt="vaibhavkatariya" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavkatariya&theme=dark" alt="vaibhavkatariya" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavkatariya&show_icons=true&locale=en&layout=compact" alt="vaibhavkatariya" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavkatariya&theme=dark&show_icons=true&locale=en&layout=compact" alt="vaibhavkatariya" />
 </p>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
