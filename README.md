@@ -62,3 +62,6 @@ Feel free to explore my repositories and reach out to me for collaborations or d
 ```
 < HAPPY CODING />
 ```
+---
+
+[![](https://visitcount.itsvg.in/api?id=vaibhavkatariya&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in/api?id=vaibhavkatariya&label=Profile%20Views&color=12&icon=5&pretty=true)
