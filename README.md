@@ -38,17 +38,20 @@ Excited to connect with you! I’m a web developer with skills in MERN, Firebase
 
 ## 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavkatariya&&theme=tokyonight&show_icons=true&locale=en" alt="vaibhavkatariya" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhavkatariya&&theme=tokyonight&show_icons=true&locale=en" alt="vaibhavkatariya" /> &nbsp; &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavkatariya&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="vaibhavkatariya" /> 
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavkatariya&theme=tokyonight" alt="vaibhavkatariya" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavkatariya&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="vaibhavkatariya" />
-</p>
+<div align="center">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaibhavKatariya&theme=tokyonight"/>
+</div>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vaibhavkatariya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
