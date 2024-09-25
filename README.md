@@ -39,7 +39,7 @@ Excited to connect with you! I’m a web developer with skills in MERN, Firebase
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhavkatariya&&theme=tokyonight&show_icons=true&locale=en" alt="vaibhavkatariya" /> &nbsp; &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhavkatariya&rank_icon=github&theme=tokyonight&show_icons=true&locale=en" alt="vaibhavkatariya" /> &nbsp; &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavkatariya&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="vaibhavkatariya" /> 
 </p>
 
