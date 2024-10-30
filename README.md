@@ -13,7 +13,7 @@ Excited to connect with you! I’m a web developer with skills in MERN, Firebase
 - 🔭 I’m currently working on my **Web Development Skills**
 - ⚡ I play with console (developer console :))
 - 🤐 Testing my code in production
-- 💬 Ask me about anything related to **MERN Stack**, **NextJS** and **DSA**
+- 💬 Ask me about anything related to **MERN Stack** and **NextJS**
 - 📫 Reach me via [vaibhav@kaily.in](mailto:vaibhav@kaily.in)
 <br><br>
 
