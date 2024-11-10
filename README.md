@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Vaibhav!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&duration=3000&pause=800&color=777777&vCenter=true&width=280&height=80&lines=Full+Stack+Developer;JavaScript+Enthusiast;Open-Source+Contributor](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=13&duration=3000&pause=800&color=777777&vCenter=true&width=280&height=80&lines=A+passionate+Full+Stack+Developer;A+passionate+JavaScript+Enthusiast;A+passionate+Open-Source+Contributor" alt="Typing SVG" style="width: 400px; height: 120px;">
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&duration=3000&pause=800&color=777777&vCenter=true&width=280&height=80&lines=Full+Stack+Developer;JavaScript+Enthusiast;Open-Source+Contributor](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=13&duration=3000&pause=800&color=777777&vCenter=true&width=280&height=80&lines=A+Full+Stack+Developer;A+JavaScript+Enthusiast;An+Open-Source+Contributor" alt="Typing SVG" style="width: 400px; height: 120px;">
 </p>
 
          
