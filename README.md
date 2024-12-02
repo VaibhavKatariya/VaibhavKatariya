@@ -28,11 +28,20 @@ Excited to connect with you! I’m a web developer with skills in MERN, Firebase
 <br>
 <br>
 ### 📲 Connect with me:
-<a href="https://www.linkedin.com/in/vaibhavkatariyaa" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="https://instagram.com/acevaibhav"><img alt="Instagram"
-                src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-            <a href="mailto:vaibhav@kaily.in" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+
+<a href="https://www.linkedin.com/in/vaibhavkatariyaa" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/acevaibhav" target="_blank">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:vaibhav@kaily.in" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://kaily.in" target="_blank">
+  <img alt="Website" src="https://img.shields.io/badge/Website-%231E90FF.svg?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+</a>
+
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
