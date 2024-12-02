@@ -39,22 +39,42 @@ Excited to connect with you! I’m a web developer with skills in MERN, Firebase
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhavkatariya&rank_icon=github&theme=tokyonight&show_icons=true&locale=en" alt="vaibhavkatariya" /> &nbsp; &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavkatariya&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="vaibhavkatariya" /> 
+  <picture>
+  <source height="180em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vaibhavkatariya&rank_icon=github&show_icons=true&locale=en" alt="vaibhavkatariya">
+  <source height="180em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vaibhavkatariya&rank_icon=github&theme=tokyonight&show_icons=true&locale=en" alt="vaibhavkatariya">
+    <image  height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhavkatariya&rank_icon=github&theme=tokyonight&show_icons=true&locale=en" alt="vaibhavkatariya"/>
+</picture> &nbsp; &nbsp;
+  <picture>
+  <source height="180em" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavkatariya&show_icons=true&locale=en&layout=compact" alt="vaibhavkatariya">
+  <source height="180em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavkatariya&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="vaibhavkatariya">
+    <image src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavkatariya&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="vaibhavkatariya"/>
+</picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavkatariya&theme=tokyonight" alt="vaibhavkatariya" />
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavkatariya" alt="vaibhavkatariya">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavkatariya&theme=tokyonight" alt="vaibhavkatariya">
+    <image src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavkatariya&theme=tokyonight" alt="vaibhavkatariya"/>
+</picture>
 </p>
 
 <div align="center">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaibhavKatariya&theme=tokyonight"/>
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaibhavKatariya" align="center" alt="vaibhavkatariya">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaibhavKatariya&theme=tokyonight" align="center" alt="vaibhavkatariya">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaibhavKatariya&theme=tokyonight"/>
+</picture>
 </div>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vaibhavkatariya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=vaibhavkatariya&limit=5&combine_all_yearly_contributions=true" align="center" alt="vaibhavkatariya">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=vaibhavkatariya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" align="center" alt="vaibhavkatariya">
+  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=vaibhavkatariya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</picture>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
